@@ -1,0 +1,2 @@
+#!/bin/badh
+gcc -s -masm=intel -o main.s
