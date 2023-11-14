@@ -1,1 +1,0 @@
-A C static library, often referred to as a static library or simply a library, is a collection of object files (compiled C source code) that are bundled together into a single file. These libraries are used to store and distribute commonly used functions, classes, or code modules that can be reused across multiple C programs. 
