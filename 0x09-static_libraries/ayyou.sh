@@ -1,1 +1,0 @@
-touch 0-isupper.c  1-strncat.c  3-strcmp.c   9-strcpy.c 0-memset.c 2-strchr.c 3-strspn.c create_static_lib.sh 0-strcat.c 2-strlen.c 4-isalpha.c main.c 100-atoi.c 2-strncpy.c  4-strpbrk.c  main.h 1-isdigit.c 3-islower.c 5-strstr.c _putchar.c 1-memcpy.c 3-puts.c 6-abs.c
