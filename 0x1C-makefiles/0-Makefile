@@ -1,4 +1,5 @@
 # Makefile for building the "school" executable
+
 all: main.c holberton.c
 	gcc main.c holberton.c -o holberton
 clean:
